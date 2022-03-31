@@ -23,5 +23,3 @@ References:
 2- Cassamo, N., & van Wingerden, J. W. (2021, May). Model Predictive Control for Wake Redirection in Wind Farms: a Koopman Dynamic Mode Decomposition Approach. 
 In 2021 American Control Conference (ACC) (pp. 1776-1782). IEEE.
 https://github.com/nassircassamo/IODMD_SOWFA
-
-try
